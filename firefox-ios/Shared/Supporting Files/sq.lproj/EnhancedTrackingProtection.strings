@@ -52,8 +52,5 @@
 "Menu.EnhancedTrackingProtection.Switch.Title.v128" = "Mbrojtje e Thelluar Nga Gjurmimi";
 
 /* A switch to disable enhanced tracking protection inside the menu. */
-"Menu.EnhancedTrackingProtection.SwitchOff.Text.v128" = "Mbrojtjet janë OFF. Sugjerojmë t’i aktivizoni.";
-
-/* A switch to disable enhanced tracking protection inside the menu. */
 "Menu.EnhancedTrackingProtection.SwitchOn.Text.v128" = "Nëse diçka duket se nuk punon në këtë sajt, provoni ta çaktivizoni.";
 

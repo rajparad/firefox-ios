@@ -52,8 +52,5 @@
 "Menu.EnhancedTrackingProtection.Switch.Title.v128" = "Diogelwch Uwch Rhag Tracio";
 
 /* A switch to disable enhanced tracking protection inside the menu. */
-"Menu.EnhancedTrackingProtection.SwitchOff.Text.v128" = "Mae'r mesurau diogelwch wedi'u diffodd. Rydym yn awgrymu eu troi yn ôl ymlaen.";
-
-/* A switch to disable enhanced tracking protection inside the menu. */
 "Menu.EnhancedTrackingProtection.SwitchOn.Text.v128" = "Os yw rhywbeth yn edrych wedi torri ar y wefan hon, ceisiwch ei ddiffodd.";
 

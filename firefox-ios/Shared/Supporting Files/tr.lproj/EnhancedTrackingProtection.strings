@@ -1,5 +1,5 @@
 /* The text for the clear cookies and site data alert button inside the enhanced tracking protection screen. */
-"Menu.EnhancedTrackingProtection.ClearData.AlertCancelButton.v128" = "Vazgeç";
+"Menu.EnhancedTrackingProtection.ClearData.AlertCancelButton.v128" = "İptal";
 
 /* The text for the clear cookies and site data alert button inside the enhanced tracking protection screen. */
 "Menu.EnhancedTrackingProtection.ClearData.AlertOkButton.v128" = "Temizle";
@@ -50,9 +50,6 @@
 
 /* Title for the switch to enable/disable enhanced tracking protection inside the menu. */
 "Menu.EnhancedTrackingProtection.Switch.Title.v128" = "Gelişmiş izlenme koruması";
-
-/* A switch to disable enhanced tracking protection inside the menu. */
-"Menu.EnhancedTrackingProtection.SwitchOff.Text.v128" = "Korumalar KAPALI. Yeniden açmanızı öneririz.";
 
 /* A switch to disable enhanced tracking protection inside the menu. */
 "Menu.EnhancedTrackingProtection.SwitchOn.Text.v128" = "Site bozuk görünüyorsa kapatmayı deneyin.";
