@@ -52,8 +52,5 @@
 "Menu.EnhancedTrackingProtection.Switch.Title.v128" = "Rozšírená ochrana pred sledovaním";
 
 /* A switch to disable enhanced tracking protection inside the menu. */
-"Menu.EnhancedTrackingProtection.SwitchOff.Text.v128" = "Ochrana sú VYPNUTÁ. Odporúčame ju znova zapnúť.";
-
-/* A switch to disable enhanced tracking protection inside the menu. */
 "Menu.EnhancedTrackingProtection.SwitchOn.Text.v128" = "Ak sa niečo na tejto stránke javí ako nefunkčné, skúste ju vypnúť.";
 
