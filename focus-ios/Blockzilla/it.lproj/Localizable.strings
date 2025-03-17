@@ -182,7 +182,7 @@
 "NewOnboarding.Button.Title.V2" = "Inizia";
 
 /* Text for a label that indicates the subtitle for the onboarding screen version 2. */
-"NewOnboarding.Subtitle.V2" = "Veloce. Privato. Nessuna distrazione.";
+"NewOnboarding.Subtitle.V2" = "Veloce. Riservato. Nessuna distrazione.";
 
 /* Text for a label that indicates the title of button from onboarding screen */
 "Onboarding.Button.Title" = "Inizia a navigare";
@@ -276,9 +276,6 @@
 
 /* Dark theme option in settings menu */
 "Settings.darkTheme" = "Scuro";
-
-/* Description associated with the Crash Reports toggle on settings screen */
-"Settings.detailTextCrashReports" = "I rapporti sugli arresti anomali ci consentono di diagnosticare e risolvere problemi con il browser.";
 
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextSearchSuggestion" = "%@ invierà ciò che digiti nella barra degli indirizzi al motore di ricerca in uso.";
