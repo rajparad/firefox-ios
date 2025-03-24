@@ -277,9 +277,6 @@
 /* Dark theme option in settings menu */
 "Settings.darkTheme" = "Mörkt";
 
-/* Description associated with the Crash Reports toggle on settings screen */
-"Settings.detailTextCrashReports" = "Kraschrapporter tillåter oss att diagnostisera och lösa problem med webbläsaren.";
-
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextSearchSuggestion" = "%@ skickar det du skriver i adressfältet till din sökmotor.";
 
@@ -419,7 +416,7 @@
 "Settings.trackingProtectionOn" = "På";
 
 /* Value for theme toggle in settings menu */
-"Settings.useSystemTheme" = "Använd systemets ljust/mörkt läge";
+"Settings.useSystemTheme" = "Använd systemets ljusa/mörka läge";
 
 /* Title for settings section to enable different Siri Shortcuts. */
 "Settinsg.siriShortcutsTitle" = "SIRI GENVÄGAR";
