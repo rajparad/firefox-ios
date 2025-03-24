@@ -125,7 +125,7 @@
 "Browser.reloadLabel" = "Recargar";
 
 /* Accessibility label for the settings button */
-"Browser.settingsLabel" = "Configuraciones";
+"Browser.settingsLabel" = "Ajustes";
 
 /* Accessibility label for the stop button */
 "Browser.stopLabel" = "Detener";
@@ -276,9 +276,6 @@
 
 /* Dark theme option in settings menu */
 "Settings.darkTheme" = "Oscuro";
-
-/* Description associated with the Crash Reports toggle on settings screen */
-"Settings.detailTextCrashReports" = "Los reportes de fallos nos permiten diagnosticar y solucionar problemas con el navegador.";
 
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
 "Settings.detailTextSearchSuggestion" = "%@ enviará lo que escribes en la barra de direcciones para tu motor de búsqueda.";

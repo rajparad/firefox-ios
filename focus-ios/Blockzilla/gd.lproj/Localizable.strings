@@ -382,6 +382,9 @@
 /* Label for the checkbox to toggle Social trackers */
 "Settings.toggleBlockSocial2" = "Sòisealta";
 
+/* Label for Crash Reports toggle on settings screen */
+"Settings.toggleCrashReports" = "Cuir aithisgean tuislidh gu fèin-obrachail";
+
 /* Label for toggle on settings screen */
 "Settings.toggleFaceID" = "Cleachd Face ID airson a’ ghlas a thoirt far na h-aplacaid";
 
